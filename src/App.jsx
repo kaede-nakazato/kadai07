@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className='card-wrapper'>
-    <img className='img' src="images/winter.jpg" alt="ウィンター 写真" />
+    <img className='img' src="../images/winter.jpg" alt="ウィンター 写真" />
     <h1 className='name'>WINTER</h1>
     <p className='affiliation'>aespa</p>
 
@@ -24,7 +24,7 @@ function App() {
     </p>
 
     <a href="https://www.instagram.com/imwinter/">
-      <img className='insta' src="images/insta.png" alt="アイコン" />
+      <img className='insta' src="../images/insta.png" alt="アイコン" />
     </a>
     </div>
   )
